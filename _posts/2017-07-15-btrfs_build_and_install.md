@@ -1,6 +1,7 @@
 ---
 layout: post
 title: build btrfs
+published: true
 ---
 In order to explore btrfs file system, we need a kernel with ```btrfs``` support and the utilities ```btrfs-progs```
 
@@ -39,7 +40,12 @@ btrfs-progs$ ./autogen.sh
 btrfs-progs$ ./configure
 btrfs-progs$ make
 btrfs-progs$ sudo make install
+```
+
+And, let's check that we have it...
+```sh
 btrfs-progs$ btrfs version
 ```
 btrfs-progs v4.11.1
 
+Take a peek at the btrfs man pages, and in the next post we build a file system.
