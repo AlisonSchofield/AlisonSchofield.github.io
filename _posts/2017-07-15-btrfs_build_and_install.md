@@ -1,6 +1,6 @@
 ---
 layout: post
-title: btrfs: build it
+title: build btrfs
 ---
 In order to explore btrfs file system, we need a kernel with ```btrfs``` support and the utilities ```btrfs-progs```
 
