@@ -22,7 +22,7 @@ Recently I came across the magic of Tensorflow, and felt a huge burden lifted. I
 
 The point here is that my disorganized photos are no longer an issue. In addition to this facial recognition, they are automagically sorted by occasion, location, and more. Now, my challenge is to _not_ lose them!
 
-###Enter Linux's BTRFS
+### Enter Linux's BTRFS
 
 I'd been exploring the btrfs filesystem, and it caught my attention as a tool that fits the way I tend to grow my storage. I'll have a disk, fill it up with photos, video (home & commercial), then when that gets full, grab another disk, repeat. These disks tend to be salvage, because not a lot of preplanning goes into this.
 
