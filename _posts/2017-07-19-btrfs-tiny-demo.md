@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: demo btrfs
+published: true
 ---
-
-
 # Here's a quick demo of setting up btrfs filesystems
 
 This is only my second time trying out some btrfs options. The first setup I used scratch disks, but they have since been commandeered for my NFS/BTRFS media server (WIP).  This time I'll fake the block devices.
