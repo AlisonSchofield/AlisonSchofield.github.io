@@ -1,7 +1,10 @@
 ---
-published: false
+layout: post
+title: tensorflow & btrfs
+published: true
 ---
-## Putting Google's Tensorflow and Linux's BTRFS to work
+
+Putting Google's Tensorflow and Linux's BTRFS to work
 
 I recently became familiar with both of these technologies, and I think they are going to help quiet one of my fears.
 
